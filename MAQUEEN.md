@@ -14,6 +14,8 @@ P15 | RGB Ambient Light (16 million colors) x 4
 P16 | Infrared Receiver (NEC decoder) 
 
 ## Servo Motors
+The lowest motor speed that can be set for the Maqueen to move is 15.
+
 M1 | M2 | DIRECTION
 -- | -- | ---------
 CW | CW | Forward
